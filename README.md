@@ -1,2 +1,2 @@
-# Netframe-LWR
-git dédié aux pistes d'amélioration et features de Netframe
+# Netframe mail
+git dédié aux pistes d'amélioration et features de Netframe mail et calendrier
